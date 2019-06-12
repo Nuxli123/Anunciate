@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Reference Include="anunciate.Business">
+      <HintPath>..\anunciate.Business\bin\Debug\netcoreapp2.1\anunciate.Business.dll</HintPath>
+    </Reference>
+    <Reference Include="anunciate.DAL.Implementation">
+      <HintPath>..\anunciate.DAL.Implementation\bin\Debug\netcoreapp2.1\anunciate.DAL.Implementation.dll</HintPath>
+    </Reference>
+    <Reference Include="anunciate.DataContext">
+      <HintPath>..\anunciate.DataContext\bin\Debug\netcoreapp2.1\anunciate.DataContext.dll</HintPath>
+    </Reference>
+    <Reference Include="anunciate.Domain">
+      <HintPath>..\anunciate.Domain\bin\Debug\netcoreapp2.1\anunciate.Domain.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

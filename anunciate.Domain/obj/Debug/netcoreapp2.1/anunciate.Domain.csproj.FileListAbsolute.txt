@@ -1,0 +1,8 @@
+C:\ProyectosPersonales\@nunciate\anunciate.Domain\bin\Debug\netcoreapp2.1\anunciate.Domain.deps.json
+C:\ProyectosPersonales\@nunciate\anunciate.Domain\bin\Debug\netcoreapp2.1\anunciate.Domain.dll
+C:\ProyectosPersonales\@nunciate\anunciate.Domain\bin\Debug\netcoreapp2.1\anunciate.Domain.pdb
+C:\ProyectosPersonales\@nunciate\anunciate.Domain\obj\Debug\netcoreapp2.1\anunciate.Domain.csproj.CoreCompileInputs.cache
+C:\ProyectosPersonales\@nunciate\anunciate.Domain\obj\Debug\netcoreapp2.1\anunciate.Domain.AssemblyInfoInputs.cache
+C:\ProyectosPersonales\@nunciate\anunciate.Domain\obj\Debug\netcoreapp2.1\anunciate.Domain.AssemblyInfo.cs
+C:\ProyectosPersonales\@nunciate\anunciate.Domain\obj\Debug\netcoreapp2.1\anunciate.Domain.dll
+C:\ProyectosPersonales\@nunciate\anunciate.Domain\obj\Debug\netcoreapp2.1\anunciate.Domain.pdb

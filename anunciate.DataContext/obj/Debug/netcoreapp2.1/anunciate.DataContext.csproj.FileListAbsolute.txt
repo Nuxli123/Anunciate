@@ -1,0 +1,12 @@
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\bin\Debug\netcoreapp2.1\anunciate.DataContext.deps.json
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\bin\Debug\netcoreapp2.1\anunciate.DataContext.dll
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\bin\Debug\netcoreapp2.1\anunciate.DataContext.pdb
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\bin\Debug\netcoreapp2.1\anunciate.Domain.dll
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\bin\Debug\netcoreapp2.1\anunciate.Domain.pdb
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\obj\Debug\netcoreapp2.1\anunciate.DataContext.csprojAssemblyReference.cache
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\obj\Debug\netcoreapp2.1\anunciate.DataContext.csproj.CoreCompileInputs.cache
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\obj\Debug\netcoreapp2.1\anunciate.DataContext.AssemblyInfoInputs.cache
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\obj\Debug\netcoreapp2.1\anunciate.DataContext.AssemblyInfo.cs
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\obj\Debug\netcoreapp2.1\anunciate.DataContext.csproj.CopyComplete
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\obj\Debug\netcoreapp2.1\anunciate.DataContext.dll
+C:\ProyectosPersonales\@nunciate\anunciate.DataContext\obj\Debug\netcoreapp2.1\anunciate.DataContext.pdb
