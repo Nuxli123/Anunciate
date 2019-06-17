@@ -1,0 +1,22 @@
+﻿@using NonFactors.Mvc.Grid;
+
+<div>
+
+    <div class="panel panel-primary">
+        <div class="panel-heading"><h3>Listado de usuarios</h3>
+        <hr />
+        </div>
+
+        <div class="panel-body">
+            <div class="text-right controls-bar">
+
+
+            </div>
+            <div id="GrdUsuarios">
+                @Html.AjaxGrid(Url.Action("_GridUsuarios"))
+
+            </div>
+
+        </div>
+    </div>
+</div>

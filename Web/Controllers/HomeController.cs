@@ -64,7 +64,7 @@ namespace Web.Controllers
                             };
                             await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal
                                   (claimsIdentity), authProperties);
-                            return RedirectToAction("Index", "Negocios");
+                            return RedirectToAction("Index", "Usuarios");
                         }
                         else
                         {

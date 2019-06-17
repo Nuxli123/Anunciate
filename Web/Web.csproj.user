@@ -3,5 +3,6 @@
   <PropertyGroup>
     <DevExtremeCreateAsPartial>False</DevExtremeCreateAsPartial>
     <DevExtremeUseLayout>True</DevExtremeUseLayout>
+    <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
 </Project>

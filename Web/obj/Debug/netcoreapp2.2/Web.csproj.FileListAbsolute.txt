@@ -39,3 +39,7 @@ C:\ProyectosPersonales\@nunciate\Web\bin\Debug\netcoreapp2.2\anunciate.Domain.pd
 C:\ProyectosPersonales\@nunciate\Web\bin\Debug\netcoreapp2.2\anunciate.DAL.pdb
 C:\ProyectosPersonales\@nunciate\Web\obj\Debug\netcoreapp2.2\Web.csprojAssemblyReference.cache
 C:\ProyectosPersonales\@nunciate\Web\obj\Debug\netcoreapp2.2\Razor\Views\Negocios\Index.g.cshtml.cs
+C:\ProyectosPersonales\@nunciate\Web\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\Index.g.cshtml.cs
+C:\ProyectosPersonales\@nunciate\Web\obj\Debug\netcoreapp2.2\Razor\Views\Usuarios\_GridUsuarios.g.cshtml.cs
+C:\ProyectosPersonales\@nunciate\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\MvcGrid\_Grid.g.cshtml.cs
+C:\ProyectosPersonales\@nunciate\Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\MvcGrid\_Pager.g.cshtml.cs

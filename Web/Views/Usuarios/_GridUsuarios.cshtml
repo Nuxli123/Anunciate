@@ -1,0 +1,21 @@
+﻿@using NonFactors.Mvc.Grid
+
+@model List<anunciate.Domain.Usuarios>
+
+@(Html
+        .Grid(Model)
+        .Build(columns =>
+        {
+            columns.Add(model => model.Nombre).Titled("Nombre");
+            columns.Add(model => model.NombreUsuario).Titled("Usuario");
+            columns.Add(model => model.Email).Titled("Marital status");
+            columns.Add(model => model.FechaRegistro).Titled("Fecha registro").Formatted("{0:d}");
+
+
+        })
+        .Empty("No hay datos que mostrar")
+        .Filterable()
+        .Sortable()
+        .Pageable()
+)
+
