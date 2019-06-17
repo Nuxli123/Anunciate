@@ -37,3 +37,5 @@ C:\ProyectosPersonales\@nunciate\Web\bin\Debug\netcoreapp2.2\anunciate.DAL.Imple
 C:\ProyectosPersonales\@nunciate\Web\bin\Debug\netcoreapp2.2\anunciate.DataContext.pdb
 C:\ProyectosPersonales\@nunciate\Web\bin\Debug\netcoreapp2.2\anunciate.Domain.pdb
 C:\ProyectosPersonales\@nunciate\Web\bin\Debug\netcoreapp2.2\anunciate.DAL.pdb
+C:\ProyectosPersonales\@nunciate\Web\obj\Debug\netcoreapp2.2\Web.csprojAssemblyReference.cache
+C:\ProyectosPersonales\@nunciate\Web\obj\Debug\netcoreapp2.2\Razor\Views\Negocios\Index.g.cshtml.cs

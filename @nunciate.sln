@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "anunciate.Domain", "anuncia
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "anunciate.DAL", "anunciate.DAL\anunciate.DAL.csproj", "{700117C5-5D98-4249-8477-F6CCE8688A1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{5ACB7279-B11D-471A-AD66-AF4AC12A22F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web\Web.csproj", "{5ACB7279-B11D-471A-AD66-AF4AC12A22F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
